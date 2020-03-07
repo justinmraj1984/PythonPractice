@@ -1,5 +1,5 @@
 # PythonPractice
- Learn Python 3 the Hard Way - Zed Shaw
+### Learn Python 3 the Hard Way - Zed Shaw
 
 - Ex 1 - Print Statement
 - Ex 2 - Comments
@@ -11,22 +11,25 @@
 - Ex 8 - Printing Printing
 - Ex 9 - Printing Printing Printing
 - Ex 10 - Printing with Escape Characters
-  
-  | Escape | What it does |
-  | \\\\ | Backslash (\\) |
-  | \\' | Single-Quote (') |
-  | \\" | Double-Quote (") |
-  | \\a | ASCII Bell (BEL) |
-  | \\b | ASCII Backspace (BS) |
-  | \\f | ASCII Formfeed (FF) |
-  | \\n | ASCII Linefeed (LF) |
-  | \\r | ASCII Carriage Return (CR) |
-  | \\t | ASCII Horizontal Tab (TAB) |
-  | \\v | ASCII Vertical Tab (VT) |
-  | \\uxxxx | Character with 16-bit hex value xxxx |
-  | \\Uxxxxxxxx | Character with 32-bit hex value xxxxxxxx |
-  | \\000 | Character with Octal value 000 |
-  | \\xhh | Character with Hex value hh |
-  | \\N{name} | Character named name in the Unicode Database (Unicode Only) |
-
 - Ex 11 - User Inputs
+
+
+### Escape Characters
+| Escape | What it does |
+| ------ | ------ |
+| \\\\ | Backslash (\\) |
+| \\' | Single-Quote (') |
+| \\" | Double-Quote (") |
+| \\a | ASCII Bell (BEL) |
+| \\b | ASCII Backspace (BS) |
+| \\f | ASCII Formfeed (FF) |
+| \\n | ASCII Linefeed (LF) |
+| \\r | ASCII Carriage Return (CR) |
+| \\t | ASCII Horizontal Tab (TAB) |
+| \\v | ASCII Vertical Tab (VT) |
+| \\uxxxx | Character with 16-bit hex value xxxx |
+| \\Uxxxxxxxx | Character with 32-bit hex value xxxxxxxx |
+| \\000 | Character with Octal value 000 |
+| \\xhh | Character with Hex value hh |
+| \\N{name} | Character named name in the Unicode Database (Unicode Only) |
+
