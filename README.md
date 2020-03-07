@@ -9,3 +9,4 @@
 - Ex 6 - Strings & Text
 - Ex 7 - More Printing
 - Ex 8 - Printing Printing
+- Ex 9 - Printing Printing Printing
