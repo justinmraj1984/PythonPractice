@@ -22,6 +22,7 @@
 - Ex 17 - Copy file content to another - Text and Binary content
 #### _4. Functions_
 - Ex 18 - Functions
+- Ex 19 - Functions & Variables
 
 ---
 ### Glossary
