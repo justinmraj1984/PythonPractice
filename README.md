@@ -1,5 +1,6 @@
 # PythonPractice
 ### Learn Python 3 the Hard Way - Zed Shaw
+#### Print Statement
 - Ex 1 - Print Statement
 - Ex 2 - Comments
 - Ex 3 - Numbers & Math
@@ -10,12 +11,17 @@
 - Ex 8 - Printing Printing
 - Ex 9 - Printing Printing Printing
 - Ex 10 - Printing with Escape Characters
+#### User Inputs
 - Ex 11 - User Inputs
 - Ex 12 - More User Inputs
 - Ex 13 - User Inputs via Argument Variable 'argv'
 - Ex 14 - Prompting and Passing User Inputs
+#### File Operation
 - Ex 15 - Reading Files
 - Ex 16 - Truncating & Writing into Files
+- Ex 17 - Copy file content to another
+#### Functions
+- Ex 18 - Functions
 
 ---
 ### Glossary
