@@ -27,6 +27,7 @@
 - Ex 21 - Functions with Return values
 - Ex 23 - Functions - Strings, Bytes & Character Encodings
 - Ex 24 - Functions - More Practice
+- Ex 25 - Create Functions as Importable modules
 
 ---
 ### Glossary
