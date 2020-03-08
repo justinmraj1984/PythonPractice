@@ -19,7 +19,7 @@
 #### _3. File Operation_
 - Ex 15 - Reading Files
 - Ex 16 - Truncating & Writing into Files
-- Ex 17 - Copy file content to another
+- Ex 17 - Copy file content to another - Text and Binary content
 #### _4. Functions_
 - Ex 18 - Functions
 
