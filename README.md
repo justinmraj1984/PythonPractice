@@ -23,6 +23,8 @@
 #### _4. Functions_
 - Ex 18 - Functions
 - Ex 19 - Functions & Variables
+- Ex 20 - Functions & Files
+- Ex 21 - Functions with Return values
 
 ---
 ### Glossary
