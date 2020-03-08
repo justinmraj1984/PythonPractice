@@ -1,6 +1,6 @@
 # PythonPractice
+---
 ### Learn Python 3 the Hard Way - Zed Shaw
-
 - Ex 1 - Print Statement
 - Ex 2 - Comments
 - Ex 3 - Numbers & Math
@@ -15,8 +15,11 @@
 - Ex 12 - More User Inputs
 - Ex 13 - User Inputs via Argument Variable 'argv'
 - Ex 14 - Prompting and Passing User Inputs
+- Ex 15 - Reading Files
 
-### Escape Characters
+---
+### Glossary
+#### Escape Characters
 | Escape | What it does |
 | ------ | ------ |
 | \\\\ | Backslash (\\) |
@@ -35,3 +38,17 @@
 | \\xhh | Character with Hex value hh |
 | \\N{name} | Character named name in the Unicode Database (Unicode Only) |
 
+#### File Operation Modes
+|Character|Meaning|
+|---------|-------|
+|r|open for reading (default)|
+|w|open for writing, truncating the file first|
+|x|create a new file and open it for writing|
+|a|open for writing, appending to the end of the file if it exists|
+|b|binary mode|
+|t|text mode (default)|
+|+|open a disk file for updating (reading and writing)|
+
+> **`rt`** - Default Mode
+> **`w+b`** - Binary random access - Truncates the file to 0 bytes
+> **`r+b`** - Opens file without Truncation
