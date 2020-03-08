@@ -1,5 +1,4 @@
 # PythonPractice
----
 ### Learn Python 3 the Hard Way - Zed Shaw
 - Ex 1 - Print Statement
 - Ex 2 - Comments
@@ -49,6 +48,7 @@
 |t|text mode (default)|
 |+|open a disk file for updating (reading and writing)|
 
-> **`rt`** - Default Mode
-> **`w+b`** - Binary random access - Truncates the file to 0 bytes
-> **`r+b`** - Opens file without Truncation
+**`rt`** - Default Mode
+**`w+b`** - Binary random access - Truncates the file to 0 bytes
+**`r+b`** - Opens file without Truncation
+
