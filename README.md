@@ -28,7 +28,7 @@
 
 ---
 ### Glossary
-#### Escape Characters
+#### _1. Escape Characters_
 | Escape | What it does |
 | ------ | ------ |
 | \\\\ | Backslash (\\) |
@@ -47,7 +47,7 @@
 | \\xhh | Character with Hex value hh |
 | \\N{name} | Character named name in the Unicode Database (Unicode Only) |
 
-#### File Operation Modes
+#### _2. File Operation Modes_
 |Character|Meaning|
 |---------|-------|
 |r|open for reading (default)|
