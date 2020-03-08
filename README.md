@@ -15,6 +15,7 @@
 - Ex 13 - User Inputs via Argument Variable 'argv'
 - Ex 14 - Prompting and Passing User Inputs
 - Ex 15 - Reading Files
+- Ex 16 - Truncating & Writing into Files
 
 ---
 ### Glossary
