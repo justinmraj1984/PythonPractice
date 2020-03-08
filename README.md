@@ -12,6 +12,7 @@
 - Ex 9 - Printing Printing Printing
 - Ex 10 - Printing with Escape Characters
 - Ex 11 - User Inputs
+- Ex 12 - User Inputs with Prompt
 
 
 ### Escape Characters
