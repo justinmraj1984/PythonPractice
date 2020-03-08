@@ -12,8 +12,9 @@
 - Ex 9 - Printing Printing Printing
 - Ex 10 - Printing with Escape Characters
 - Ex 11 - User Inputs
-- Ex 12 - User Inputs with Prompt
-
+- Ex 12 - More User Inputs
+- Ex 13 - User Inputs via Argument Variable 'argv'
+- Ex 14 - Prompting and Passing User Inputs
 
 ### Escape Characters
 | Escape | What it does |
