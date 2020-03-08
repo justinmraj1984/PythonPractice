@@ -56,6 +56,5 @@
 |+|open a disk file for updating (reading and writing)|
 
 * **`rt`** - Default Mode
-* **`w+b`** - Binary random access - Truncates the file to 0 bytes
-* **`r+b`** - Opens file without Truncation
+* **`rb+`** & **`wb+`** - Process ASCII Text & Binary file content
 
