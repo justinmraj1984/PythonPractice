@@ -25,6 +25,8 @@
 - Ex 19 - Functions & Variables
 - Ex 20 - Functions & Files
 - Ex 21 - Functions with Return values
+- Ex 23 - Functions - Strings, Bytes & Character Encodings
+- Ex 24 - Functions - More Practice
 
 ---
 ### Glossary
