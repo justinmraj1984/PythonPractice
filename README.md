@@ -28,6 +28,8 @@
 - Ex 23 - Functions - Strings, Bytes & Character Encodings
 - Ex 24 - Functions - More Practice
 - Ex 25 - Create Functions as Importable modules
+#### _5. Test_
+- Ex 26 - Debug the existing code
 
 ---
 ### Glossary
