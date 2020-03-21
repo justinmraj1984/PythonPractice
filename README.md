@@ -30,6 +30,8 @@
 - Ex 25 - Create Functions as Importable modules
 #### _5. Test_
 - Ex 26 - Debug the existing code
+#### _6. Building Logic_
+- Ex 27 - Truth Tables
 
 ---
 ### Glossary
@@ -65,4 +67,52 @@
 
 * **`rt`** - Default Mode
 * **`rb+`** & **`wb+`** - Process ASCII Text & Binary file content
+
+#### _3. Truth Table_
+|NOT|True?|
+|---------|-------|
+|`not False`|True|
+|`not True`|False|
+
+|OR|True?|
+|---------|-------|
+|`True OR False`|True|
+|`True OR True`|True|
+|`False OR True`|True|
+|`False OR False`|False|
+
+|AND|True?|
+|---------|-------|
+|`True AND False`|False|
+|`True AND True`|True|
+|`False AND True`|False|
+|`False AND False`|False|
+
+|NOT OR = NOR|True?|
+|---------|-------|
+|`NOT(True OR False)`|False|
+|`NOT(True OR True)`|False|
+|`NOT(False OR True)`|False|
+|`NOT(False OR False)`|True|
+
+|NOT AND = NAND|True?|
+|---------|-------|
+|`NOT(True AND False)`|True|
+|`NOT(True AND True)`|False|
+|`NOT(False AND True)`|True|
+|`NOT(False AND False)`|True|
+
+|==|True?|
+|---------|-------|
+|`1 == 0`|False|
+|`1 == 1`|True|
+|`0 == 1`|False|
+|`0 == 0`|True|
+
+|!=|True?|
+|---------|-------|
+|`1 != 0`|True|
+|`1 != 1`|False|
+|`0 != 1`|True|
+|`0 != 0`|False|
 
