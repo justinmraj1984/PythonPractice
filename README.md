@@ -32,6 +32,12 @@
 - Ex 26 - Debug the existing code
 #### _6. Building Logic_
 - Ex 27 - Truth Tables
+- Ex 28 - Boolean Logic [practic in python terminal]
+- Ex 29 - IF Statement
+- Ex 30 - IF ELSE Statement
+- Ex 31 - Making Decision
+- Ex 32 - Lists and For Loop
+- Ex 33 - While Loop
 
 ---
 ### Glossary
