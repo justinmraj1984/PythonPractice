@@ -1,6 +1,14 @@
-num = int(input("Enter num: "))
+num = 0
+isNum = False
 
-if (num > 0):
+try:
+  num = int(input("Enter num: "))
+  isNum = True
+except Exception as ex:
+  print("Invalid input.. Please enter a number > 0")
+  print("Exception: ", ex)
+
+if (isNum):
   i = 0
   numlist = []
   while (i < num+1):
@@ -9,4 +17,4 @@ if (num > 0):
   print(numlist)
 
 else:
-  print("Invalid input.. Please enter a number > 0")
+  print("Aborted...")

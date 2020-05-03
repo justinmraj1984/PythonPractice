@@ -38,6 +38,10 @@
 - Ex 31 - Making Decision
 - Ex 32 - Lists and For Loop
 - Ex 33 - While Loop
+- Ex 34 - Accessing Elements of Lists
+- Ex 35 - Branch and Functions
+- Ex 36 - Designing and Debugging
+
 
 ---
 ### Glossary
